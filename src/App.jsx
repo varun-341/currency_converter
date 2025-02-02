@@ -69,7 +69,7 @@ function ChangeDirection(){
      </div>
 
 
-     <h1 className='font-bold text-5xl relative top-30' onClick={ChangeDirection}><img src='src/images/arrow.png' width={280}/></h1>
+     <h1 className='font-bold text-5xl relative top-30' onClick={ChangeDirection}><img src='/images/arrow.png' width={280}/></h1>
      
 
      <div className='border-2 rounded-2xl pt-18 p-6' id='second'>
